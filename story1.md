@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Story 1"
+---
+
+# Story 1 Title
+
+Your story content goes here in Markdown format.
+
+
 [p]Author[/p]
 [spoiler]
 [p]Description: A series of individual stories.[/p]
